@@ -1,0 +1,6 @@
+[submodule "data_parser"]
+	path = quintagroup.robotframework.utils
+	url = https://github.com/quintagroup/quintagroup.robotframework.utils.git
+[submodule "SUDS"]
+	path = robotframework-utilities
+	url = https://github.com/mauricekoster/robotframework-utilities.git
