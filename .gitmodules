@@ -4,3 +4,6 @@
 [submodule "SUDS"]
 	path = robotframework-utilities
 	url = https://github.com/mauricekoster/robotframework-utilities.git
+[submodule "robottools"]
+	path = robottools
+	url = https://bitbucket.org/robotframework/robottools.git

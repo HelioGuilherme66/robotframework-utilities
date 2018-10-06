@@ -9,6 +9,8 @@ These are the submodules available from this project:
 
 [Data parser](https://github.com/quintagroup/quintagroup.robotframework.utils)
 
+[Robot Framework Tools](https://bitbucket.org/robotframework/robottools.git)
+
 ## Utilities ##
 
 _file_renamer/renamer.sh_  - Renames files from .txt to .robot (or reverses)
